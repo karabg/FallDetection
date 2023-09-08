@@ -24,7 +24,7 @@ Special thanks to CareWare for their support and collaboration.
 
 You can install the required dependencies for this project by running the following command:
 
-###Cloning Repository
+### Cloning Repository
 ```bash
 git clone https://github.com/karabg/FallDetection.git
 cd FallDetection
@@ -35,17 +35,14 @@ cd FallDetection
 ```bash
 python3 -m pip install -r requirements.txt
 ```
+```bash
+python3 fall_detection.py
+```
+
 ### Windows
 ```bash
 py -m pip install -r requirements.txt
 ```
-
-### Linux:
-
-```bash
-python3 fall_detection.py
-```
-### Windows
 ```bash
 py fall_detection.py
 ```
